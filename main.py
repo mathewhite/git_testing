@@ -1,4 +1,6 @@
 def first_func(first, second):
     return first+second
 
-print('ща научимся, привет гит')
+def second_func(first):
+    return first+2
+
